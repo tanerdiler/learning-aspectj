@@ -1,11 +1,12 @@
-package com.tanerdiler.aspectj.deneme;
+package com.tanerdiler.aspectj.logging;
 
 import static java.lang.String.format;
 
 import org.aspectj.lang.JoinPoint.StaticPart;
 import org.aspectj.lang.Signature;
 
-public aspect MethodExecutionTimeTrackerAspect {
+public aspect MethodExecutionTimeLoggerAspect {
+	
 	private long criticalTime = 1 * 100;
 
 	pointcut runTrace() : execution(public * *.*(..));

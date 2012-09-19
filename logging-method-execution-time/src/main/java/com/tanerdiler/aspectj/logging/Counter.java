@@ -1,6 +1,7 @@
-package com.tanerdiler.aspectj.deneme;
+package com.tanerdiler.aspectj.logging;
 
 public class Counter {
+	
 	public void count () {
 		for (int i=0; i<100; i++) {
 			try {
