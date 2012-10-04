@@ -1,0 +1,9 @@
+-1.6
+-classpath
+/home/taner/.m2/repository/org/aspectj/aspectjrt/1.7.0/aspectjrt-1.7.0.jar:/home/taner/.m2/repository/org/aspectj/aspectjtools/1.7.0/aspectjtools-1.7.0.jar:/home/taner/.m2/repository/org/aspectj/aspectjweaver/1.7.0/aspectjweaver-1.7.0.jar:/home/taner/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar:/home/taner/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar:/home/taner/.m2/repository/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar:/home/taner/workspace/put-crud-operations-to-entity/target/classes
+-d
+/home/taner/workspace/put-crud-operations-to-entity/target/classes
+/home/taner/workspace/put-crud-operations-to-entity/src/main/java/Main.java
+/home/taner/workspace/put-crud-operations-to-entity/src/main/java/com/tanerdiler/aspectj/persistence/GenericEntity.java
+/home/taner/workspace/put-crud-operations-to-entity/src/main/java/com/tanerdiler/aspectj/persistence/Student.java
+/home/taner/workspace/put-crud-operations-to-entity/src/main/aspect/com/tanerdiler/aspectj/persistence/ByeWorldAspect.aj
